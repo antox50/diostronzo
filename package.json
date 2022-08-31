@@ -1,0 +1,33 @@
+{
+  "name": "unuruli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@distube/ytpl": "^1.0.10",
+    "currency-formatter": "^1.5.9",
+    "discord-blackjack": "^4.0.0",
+    "discord-button-pages": "^1.1.9",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^5.0.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.5.1",
+    "moongose": "^1.0.0",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "opusscript": "^0.0.8",
+    "parse-ms": "2.1",
+    "quick.db": "^7.1.3",
+    "quick.js": "^1.0.0",
+    "tech-tip-cyber": "^1.2.3",
+    "youtube-sr": "^2.0.5",
+    "ytdl-core": "github:fent/node-ytdl-core#d1f535712410eebd79a7468abd07d94f8c4ebe5a"
+  }
+}
